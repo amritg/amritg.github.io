@@ -1,0 +1,11 @@
+CACHE MANIFEST
+FALLBACK:
+/ /offline.html
+CACHE:
+index.html
+style.css
+images/home.png
+images/img1.jpg
+images/img3.jpg
+jquery/jquery-2.1.1min.js
+
